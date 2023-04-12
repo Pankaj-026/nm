@@ -1,5 +1,5 @@
 aminkmkc 
-//6a trapazoidal 
+//6b 1/3 rd simpson
 deff('y=f(x)','y=x^4')
 a=input("Enter Lower Limit:")
 b=input("Enter Upper Limit:")
