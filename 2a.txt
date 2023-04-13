@@ -1,4 +1,4 @@
-//2a
+//2a bisection 
 deff('y=f(x)','y=x^3-2*x-1');
 x1=1;
 x2=2;
