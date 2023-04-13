@@ -1,4 +1,4 @@
-//2d false position
+//2d Newtow raphson
 deff('y=f(x)','y=sin(x)-x/2');
 deff('y1=f1(x)','y1=cos(x)-1/2');
 x0=2;
